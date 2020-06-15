@@ -20,7 +20,7 @@ and generate value out of such data can be an invaluable skill to have.
 
 *sex:* insurance contractor gender, female, male
 
-*bmi:* 1) Body mass index, providing an understanding of body, weights that are
+*bmi:* Body mass index, providing an understanding of body, weights that are
 relatively high or low relative to height, objective index of body weight (kg / m ^
 2) using the ratio of height to weight, ideally 18.5 to 24.9
 
@@ -34,7 +34,12 @@ southwest, northwest.
 
 *charges:* Individual medical costs billed by health insurance.
 
-*Learning Outcomes:*
+**Learning Outcomes:**
 - Exploratory Data Analysis
 - Practicing statistics using Python
 - Hypothesis testing
+
+**Objective:**
+
+We want to see if we can dive deep into this data to find some valuable insights.
+
